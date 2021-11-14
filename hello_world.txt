@@ -1,2 +1,4 @@
 Here's some text I'm adding to the hello_world.txt file thingy from thingy going
-back to thingy with things as are differences and all.
+back to thingy with things as are differences and all. I came back to see if I 
+could figure out the git config --global core.editor "code --wait" thing but,
+IDK.
